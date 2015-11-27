@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blocktunneling",
+  "name": "Block Tunneling",
+  "description": "Tunnel through blocks at will!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aaron1011"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
